@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/neer/GitHub/swarachakra-android/app/build/intermediates/res/merged/asomiya/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/neer/GitHub/swarachakra-android/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/neer/GitHub/swarachakra-android/app/build/intermediates/res/merged/asomiya/debug/drawable-ldpi-v4/delete.png",
+        "source": "/Users/neer/GitHub/swarachakra-android/app/src/asomiya/res/drawable-ldpi/delete.png"
+    },
+    {
+        "merged": "/Users/neer/GitHub/swarachakra-android/app/build/intermediates/res/merged/asomiya/debug/drawable-ldpi-v4/space.png",
+        "source": "/Users/neer/GitHub/swarachakra-android/app/src/asomiya/res/drawable-ldpi/space.png"
+    },
+    {
+        "merged": "/Users/neer/GitHub/swarachakra-android/app/build/intermediates/res/merged/asomiya/debug/drawable-ldpi-v4/shift.png",
+        "source": "/Users/neer/GitHub/swarachakra-android/app/src/asomiya/res/drawable-ldpi/shift.png"
+    },
+    {
+        "merged": "/Users/neer/GitHub/swarachakra-android/app/build/intermediates/res/merged/asomiya/debug/drawable-ldpi-v4/interact.png",
+        "source": "/Users/neer/GitHub/swarachakra-android/app/src/asomiya/res/drawable-ldpi/interact.png"
+    }
+]
