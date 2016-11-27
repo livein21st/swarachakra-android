@@ -49,7 +49,7 @@
                 android:button="@null"
                 android:focusable="true"
                 android:gravity="center_horizontal"
-                android:text="@string/settings_layout_hex"
+                android:text="@string/gujarati_settings_layout_hex"
                 android:visibility="visible" />
 
             <RadioButton
@@ -61,7 +61,7 @@
                 android:button="@null"
                 android:focusable="true"
                 android:gravity="center_horizontal"
-                android:text="@string/settings_layout_small" />
+                android:text="@string/settings_layout_big" />
 
             <RadioButton
                 android:id="@+id/smallRadioButton"
@@ -72,7 +72,7 @@
                 android:button="@null"
                 android:focusable="true"
                 android:gravity="center_horizontal"
-                android:text="@string/settings_layout_big"></RadioButton>
+                android:text="@string/settings_layout_small"></RadioButton>
 
         </RadioGroup>
 
@@ -183,7 +183,7 @@
                     android:layout_marginRight="20dp"
                     android:layout_marginTop="15dp"
                     android:background="@drawable/button"
-                    android:text="@string/tryit"
+                    android:text="@string/gujarati_tryit"
                     android:textColor="#fff" />
 
                 <TextView

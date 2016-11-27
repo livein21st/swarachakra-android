@@ -5,29 +5,29 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="16138302930831"
+    timestamp="19153268239983"
     token="4659509562007186779"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="253" />
+        duration="208" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="18" />
+        duration="171" />
     <task
         name="verifier"
-        duration="1" />
+        duration="21" />
 
     <artifact
         location="/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/outputs/apk/app-gujarati-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="16138302930831"
+        timestamp="19153268239983"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/outputs/apk/app-gujarati-debug.apk"

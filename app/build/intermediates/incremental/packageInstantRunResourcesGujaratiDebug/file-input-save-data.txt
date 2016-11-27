@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 28 03:21:55 IST 2016
+#Mon Nov 28 04:13:14 IST 2016
 210.set=ANDROID_RESOURCE
 282.file=/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/res/resources-gujarati-debug.ap_/res/layout/abc_list_menu_item_icon.xml
 14.set=ANDROID_RESOURCE
