@@ -11,6 +11,7 @@ import android.content.Context;
 import android.inputmethodservice.Keyboard;
 import android.inputmethodservice.Keyboard.Key;
 import android.inputmethodservice.KeyboardView.OnKeyboardActionListener;
+import android.os.Debug;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
@@ -88,7 +89,7 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 	};
 
 	private SoftKeyboard mSoftKeyboard;
-	private KeyLogger mKeyLogger;
+//	private KeyLogger mKeyLogger;
 	//private ExceptionHandler mExceptionHandler;
 	private int touchDownX;
 	private int touchDownY;
@@ -558,7 +559,8 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 			ExtractedText edt= mInputConnection.getExtractedText(new ExtractedTextRequest(), 0);
 			
 			if(edt != null){
-				mKeyLogger.extractedText = edt.text.toString();
+//				Debug.SHOW_FULL_DETAIL();
+//				mKeyLogger.extractedText = edt.text.toString();
 			}
 			else{
 				//mLog.d(mKeyLogger.TAG,"handlechar(): About to hide, nothing to save" + edt);
@@ -726,7 +728,7 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 		return region;
 	}
 
-	public void setKeyLogger(KeyLogger keyLogger) {
-		mKeyLogger = keyLogger;	
-	}
+//	public void setKeyLogger(KeyLogger keyLogger) {
+//		mKeyLogger = keyLogger;
+//	}
 }

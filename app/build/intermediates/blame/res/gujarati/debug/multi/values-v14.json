@@ -1,0 +1,2280 @@
+[
+    {
+        "outputFile": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/incremental/mergeGujaratiDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 421,
+                        "startColumn": 4,
+                        "startOffset": 10684,
+                        "endLine": 463,
+                        "endColumn": 19,
+                        "endOffset": 11737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endLine": 88,
+                    "endColumn": 19,
+                    "endOffset": 2167
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 465,
+                        "startColumn": 4,
+                        "startOffset": 11784,
+                        "endLine": 508,
+                        "endColumn": 19,
+                        "endOffset": 12838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2172,
+                    "endLine": 131,
+                    "endColumn": 19,
+                    "endOffset": 3251
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 510,
+                        "startColumn": 4,
+                        "startOffset": 12885,
+                        "endLine": 552,
+                        "endColumn": 19,
+                        "endOffset": 13964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 3256,
+                    "endLine": 175,
+                    "endColumn": 19,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 558,
+                        "startColumn": 4,
+                        "startOffset": 14165,
+                        "endLine": 601,
+                        "endColumn": 19,
+                        "endOffset": 15219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endLine": 218,
+                    "endColumn": 19,
+                    "endOffset": 5368
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 603,
+                        "startColumn": 4,
+                        "startOffset": 15266,
+                        "endLine": 645,
+                        "endColumn": 19,
+                        "endOffset": 16319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 5373,
+                    "endLine": 261,
+                    "endColumn": 19,
+                    "endOffset": 6426
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 647,
+                        "startColumn": 4,
+                        "startOffset": 16366,
+                        "endLine": 689,
+                        "endColumn": 19,
+                        "endOffset": 17419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 6431,
+                    "endLine": 304,
+                    "endColumn": 19,
+                    "endOffset": 7510
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 691,
+                        "startColumn": 4,
+                        "startOffset": 17466,
+                        "endLine": 733,
+                        "endColumn": 19,
+                        "endOffset": 18545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 7515,
+                    "endLine": 347,
+                    "endColumn": 19,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 735,
+                        "startColumn": 4,
+                        "startOffset": 18592,
+                        "endLine": 777,
+                        "endColumn": 19,
+                        "endOffset": 19671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endLine": 390,
+                    "endColumn": 19,
+                    "endOffset": 9652
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 779,
+                        "startColumn": 4,
+                        "startOffset": 19718,
+                        "endLine": 821,
+                        "endColumn": 19,
+                        "endOffset": 20771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 9657,
+                    "endLine": 433,
+                    "endColumn": 19,
+                    "endOffset": 10736
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 823,
+                        "startColumn": 4,
+                        "startOffset": 20818,
+                        "endLine": 865,
+                        "endColumn": 19,
+                        "endOffset": 21897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 10741,
+                    "endLine": 478,
+                    "endColumn": 19,
+                    "endOffset": 11843
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endLine": 62,
+                        "endColumn": 19,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 11848,
+                    "endLine": 521,
+                    "endColumn": 19,
+                    "endOffset": 12927
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 867,
+                        "startColumn": 4,
+                        "startOffset": 21944,
+                        "endLine": 909,
+                        "endColumn": 19,
+                        "endOffset": 23023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 12932,
+                    "endLine": 564,
+                    "endColumn": 19,
+                    "endOffset": 13985
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 911,
+                        "startColumn": 4,
+                        "startOffset": 23070,
+                        "endLine": 953,
+                        "endColumn": 19,
+                        "endOffset": 24123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 13990,
+                    "endLine": 607,
+                    "endColumn": 19,
+                    "endOffset": 15069
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 955,
+                        "startColumn": 4,
+                        "startOffset": 24170,
+                        "endLine": 997,
+                        "endColumn": 19,
+                        "endOffset": 25249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 15074,
+                    "endLine": 650,
+                    "endColumn": 19,
+                    "endOffset": 16127
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 999,
+                        "startColumn": 4,
+                        "startOffset": 25296,
+                        "endLine": 1041,
+                        "endColumn": 19,
+                        "endOffset": 26349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 16132,
+                    "endLine": 693,
+                    "endColumn": 19,
+                    "endOffset": 17211
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1043,
+                        "startColumn": 4,
+                        "startOffset": 26396,
+                        "endLine": 1085,
+                        "endColumn": 19,
+                        "endOffset": 27475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 17216,
+                    "endLine": 736,
+                    "endColumn": 19,
+                    "endOffset": 18269
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1087,
+                        "startColumn": 4,
+                        "startOffset": 27522,
+                        "endLine": 1129,
+                        "endColumn": 19,
+                        "endOffset": 28575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 737,
+                    "startColumn": 4,
+                    "startOffset": 18274,
+                    "endLine": 779,
+                    "endColumn": 19,
+                    "endOffset": 19353
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1131,
+                        "startColumn": 4,
+                        "startOffset": 28622,
+                        "endLine": 1173,
+                        "endColumn": 19,
+                        "endOffset": 29701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 780,
+                    "startColumn": 4,
+                    "startOffset": 19358,
+                    "endLine": 822,
+                    "endColumn": 19,
+                    "endOffset": 20437
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1175,
+                        "startColumn": 4,
+                        "startOffset": 29748,
+                        "endLine": 1217,
+                        "endColumn": 19,
+                        "endOffset": 30827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 823,
+                    "startColumn": 4,
+                    "startOffset": 20442,
+                    "endLine": 865,
+                    "endColumn": 19,
+                    "endOffset": 21495
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1219,
+                        "startColumn": 4,
+                        "startOffset": 30874,
+                        "endLine": 1261,
+                        "endColumn": 19,
+                        "endOffset": 31927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 866,
+                    "startColumn": 4,
+                    "startOffset": 21500,
+                    "endLine": 910,
+                    "endColumn": 19,
+                    "endOffset": 22596
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1263,
+                        "startColumn": 4,
+                        "startOffset": 31974,
+                        "endLine": 1307,
+                        "endColumn": 19,
+                        "endOffset": 33070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 911,
+                    "startColumn": 4,
+                    "startOffset": 22601,
+                    "endLine": 954,
+                    "endColumn": 19,
+                    "endOffset": 23698
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endLine": 108,
+                        "endColumn": 19,
+                        "endOffset": 2849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 955,
+                    "startColumn": 4,
+                    "startOffset": 23703,
+                    "endLine": 997,
+                    "endColumn": 19,
+                    "endOffset": 24756
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1310,
+                        "startColumn": 4,
+                        "startOffset": 33118,
+                        "endLine": 1352,
+                        "endColumn": 19,
+                        "endOffset": 34171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 998,
+                    "startColumn": 4,
+                    "startOffset": 24761,
+                    "endLine": 1040,
+                    "endColumn": 19,
+                    "endOffset": 25814
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1354,
+                        "startColumn": 4,
+                        "startOffset": 34218,
+                        "endLine": 1396,
+                        "endColumn": 19,
+                        "endOffset": 35271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1041,
+                    "startColumn": 4,
+                    "startOffset": 25819,
+                    "endLine": 1083,
+                    "endColumn": 19,
+                    "endOffset": 26898
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1398,
+                        "startColumn": 4,
+                        "startOffset": 35318,
+                        "endLine": 1440,
+                        "endColumn": 19,
+                        "endOffset": 36397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1084,
+                    "startColumn": 4,
+                    "startOffset": 26903,
+                    "endLine": 1126,
+                    "endColumn": 19,
+                    "endOffset": 27982
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1442,
+                        "startColumn": 4,
+                        "startOffset": 36444,
+                        "endLine": 1484,
+                        "endColumn": 19,
+                        "endOffset": 37523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1127,
+                    "startColumn": 4,
+                    "startOffset": 27987,
+                    "endLine": 1169,
+                    "endColumn": 19,
+                    "endOffset": 29066
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1486,
+                        "startColumn": 4,
+                        "startOffset": 37570,
+                        "endLine": 1528,
+                        "endColumn": 19,
+                        "endOffset": 38649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1170,
+                    "startColumn": 4,
+                    "startOffset": 29071,
+                    "endLine": 1212,
+                    "endColumn": 19,
+                    "endOffset": 30150
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1578,
+                        "startColumn": 4,
+                        "startOffset": 39976,
+                        "endLine": 1620,
+                        "endColumn": 19,
+                        "endOffset": 41055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1213,
+                    "startColumn": 4,
+                    "startOffset": 30155,
+                    "endLine": 1257,
+                    "endColumn": 19,
+                    "endOffset": 31251
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1622,
+                        "startColumn": 4,
+                        "startOffset": 41102,
+                        "endLine": 1666,
+                        "endColumn": 19,
+                        "endOffset": 42198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1258,
+                    "startColumn": 4,
+                    "startOffset": 31256,
+                    "endLine": 1300,
+                    "endColumn": 19,
+                    "endOffset": 32335
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1530,
+                        "startColumn": 4,
+                        "startOffset": 38696,
+                        "endLine": 1572,
+                        "endColumn": 19,
+                        "endOffset": 39775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1301,
+                    "startColumn": 4,
+                    "startOffset": 32340,
+                    "endLine": 1344,
+                    "endColumn": 19,
+                    "endOffset": 33430
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 2896,
+                        "endLine": 154,
+                        "endColumn": 19,
+                        "endOffset": 3986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1345,
+                    "startColumn": 4,
+                    "startOffset": 33435,
+                    "endLine": 1387,
+                    "endColumn": 19,
+                    "endOffset": 34499
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 4033,
+                        "endLine": 199,
+                        "endColumn": 19,
+                        "endOffset": 5097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1388,
+                    "startColumn": 4,
+                    "startOffset": 34504,
+                    "endLine": 1430,
+                    "endColumn": 19,
+                    "endOffset": 35568
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 5143,
+                        "endLine": 243,
+                        "endColumn": 19,
+                        "endOffset": 6207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1431,
+                    "startColumn": 4,
+                    "startOffset": 35573,
+                    "endLine": 1473,
+                    "endColumn": 19,
+                    "endOffset": 36637
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 6253,
+                        "endLine": 287,
+                        "endColumn": 19,
+                        "endOffset": 7317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1474,
+                    "startColumn": 4,
+                    "startOffset": 36642,
+                    "endLine": 1516,
+                    "endColumn": 19,
+                    "endOffset": 37720
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 7363,
+                        "endLine": 331,
+                        "endColumn": 19,
+                        "endOffset": 8441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1517,
+                    "startColumn": 4,
+                    "startOffset": 37725,
+                    "endLine": 1559,
+                    "endColumn": 19,
+                    "endOffset": 38777
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 8487,
+                        "endLine": 375,
+                        "endColumn": 19,
+                        "endOffset": 9539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1560,
+                    "startColumn": 4,
+                    "startOffset": 38782,
+                    "endLine": 1602,
+                    "endColumn": 19,
+                    "endOffset": 39834
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 9585,
+                        "endLine": 419,
+                        "endColumn": 19,
+                        "endOffset": 10637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1603,
+                    "startColumn": 4,
+                    "startOffset": 39839,
+                    "endLine": 1614,
+                    "endColumn": 19,
+                    "endOffset": 40206
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1667,
+                        "startColumn": 4,
+                        "startOffset": 42203,
+                        "endLine": 1678,
+                        "endColumn": 19,
+                        "endOffset": 42570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1615,
+                    "startColumn": 4,
+                    "startOffset": 40211,
+                    "endLine": 1626,
+                    "endColumn": 19,
+                    "endOffset": 40574
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1680,
+                        "startColumn": 4,
+                        "startOffset": 42576,
+                        "endLine": 1691,
+                        "endColumn": 19,
+                        "endOffset": 42939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1627,
+                    "startColumn": 4,
+                    "startOffset": 40579,
+                    "endColumn": 54,
+                    "endOffset": 40629
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 54,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1628,
+                    "startColumn": 4,
+                    "startOffset": 40634,
+                    "endColumn": 56,
+                    "endOffset": 40686
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 43,
+                        "endColumn": 56,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1629,
+                    "startColumn": 4,
+                    "startOffset": 40691,
+                    "endColumn": 40,
+                    "endOffset": 40727
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 40,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1630,
+                    "startColumn": 4,
+                    "startOffset": 40732,
+                    "endColumn": 41,
+                    "endOffset": 40769
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 420,
+                        "startColumn": 4,
+                        "startOffset": 10642,
+                        "endColumn": 41,
+                        "endOffset": 10679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1631,
+                    "startColumn": 4,
+                    "startOffset": 40774,
+                    "endColumn": 41,
+                    "endOffset": 40811
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 464,
+                        "startColumn": 4,
+                        "startOffset": 11742,
+                        "endColumn": 41,
+                        "endOffset": 11779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1632,
+                    "startColumn": 4,
+                    "startOffset": 40816,
+                    "endColumn": 41,
+                    "endOffset": 40853
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 509,
+                        "startColumn": 4,
+                        "startOffset": 12843,
+                        "endColumn": 41,
+                        "endOffset": 12880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1633,
+                    "startColumn": 4,
+                    "startOffset": 40858,
+                    "endColumn": 41,
+                    "endOffset": 40895
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 557,
+                        "startColumn": 4,
+                        "startOffset": 14123,
+                        "endColumn": 41,
+                        "endOffset": 14160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1634,
+                    "startColumn": 4,
+                    "startOffset": 40900,
+                    "endColumn": 41,
+                    "endOffset": 40937
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 602,
+                        "startColumn": 4,
+                        "startOffset": 15224,
+                        "endColumn": 41,
+                        "endOffset": 15261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1635,
+                    "startColumn": 4,
+                    "startOffset": 40942,
+                    "endColumn": 41,
+                    "endOffset": 40979
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 646,
+                        "startColumn": 4,
+                        "startOffset": 16324,
+                        "endColumn": 41,
+                        "endOffset": 16361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1636,
+                    "startColumn": 4,
+                    "startOffset": 40984,
+                    "endColumn": 41,
+                    "endOffset": 41021
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 690,
+                        "startColumn": 4,
+                        "startOffset": 17424,
+                        "endColumn": 41,
+                        "endOffset": 17461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1637,
+                    "startColumn": 4,
+                    "startOffset": 41026,
+                    "endColumn": 41,
+                    "endOffset": 41063
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 734,
+                        "startColumn": 4,
+                        "startOffset": 18550,
+                        "endColumn": 41,
+                        "endOffset": 18587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1638,
+                    "startColumn": 4,
+                    "startOffset": 41068,
+                    "endColumn": 41,
+                    "endOffset": 41105
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 778,
+                        "startColumn": 4,
+                        "startOffset": 19676,
+                        "endColumn": 41,
+                        "endOffset": 19713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1639,
+                    "startColumn": 4,
+                    "startOffset": 41110,
+                    "endColumn": 41,
+                    "endOffset": 41147
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 822,
+                        "startColumn": 4,
+                        "startOffset": 20776,
+                        "endColumn": 41,
+                        "endOffset": 20813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1640,
+                    "startColumn": 4,
+                    "startOffset": 41152,
+                    "endColumn": 40,
+                    "endOffset": 41188
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 1711,
+                        "endColumn": 40,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1641,
+                    "startColumn": 4,
+                    "startOffset": 41193,
+                    "endColumn": 41,
+                    "endOffset": 41230
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 866,
+                        "startColumn": 4,
+                        "startOffset": 21902,
+                        "endColumn": 41,
+                        "endOffset": 21939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1642,
+                    "startColumn": 4,
+                    "startOffset": 41235,
+                    "endColumn": 41,
+                    "endOffset": 41272
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 910,
+                        "startColumn": 4,
+                        "startOffset": 23028,
+                        "endColumn": 41,
+                        "endOffset": 23065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1643,
+                    "startColumn": 4,
+                    "startOffset": 41277,
+                    "endColumn": 41,
+                    "endOffset": 41314
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 954,
+                        "startColumn": 4,
+                        "startOffset": 24128,
+                        "endColumn": 41,
+                        "endOffset": 24165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1644,
+                    "startColumn": 4,
+                    "startOffset": 41319,
+                    "endColumn": 41,
+                    "endOffset": 41356
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 998,
+                        "startColumn": 4,
+                        "startOffset": 25254,
+                        "endColumn": 41,
+                        "endOffset": 25291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1645,
+                    "startColumn": 4,
+                    "startOffset": 41361,
+                    "endColumn": 41,
+                    "endOffset": 41398
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1042,
+                        "startColumn": 4,
+                        "startOffset": 26354,
+                        "endColumn": 41,
+                        "endOffset": 26391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1646,
+                    "startColumn": 4,
+                    "startOffset": 41403,
+                    "endColumn": 41,
+                    "endOffset": 41440
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1086,
+                        "startColumn": 4,
+                        "startOffset": 27480,
+                        "endColumn": 41,
+                        "endOffset": 27517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1647,
+                    "startColumn": 4,
+                    "startOffset": 41445,
+                    "endColumn": 41,
+                    "endOffset": 41482
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1130,
+                        "startColumn": 4,
+                        "startOffset": 28580,
+                        "endColumn": 41,
+                        "endOffset": 28617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1648,
+                    "startColumn": 4,
+                    "startOffset": 41487,
+                    "endColumn": 41,
+                    "endOffset": 41524
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1174,
+                        "startColumn": 4,
+                        "startOffset": 29706,
+                        "endColumn": 41,
+                        "endOffset": 29743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1649,
+                    "startColumn": 4,
+                    "startOffset": 41529,
+                    "endColumn": 41,
+                    "endOffset": 41566
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1218,
+                        "startColumn": 4,
+                        "startOffset": 30832,
+                        "endColumn": 41,
+                        "endOffset": 30869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1650,
+                    "startColumn": 4,
+                    "startOffset": 41571,
+                    "endColumn": 41,
+                    "endOffset": 41608
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1262,
+                        "startColumn": 4,
+                        "startOffset": 31932,
+                        "endColumn": 41,
+                        "endOffset": 31969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1651,
+                    "startColumn": 4,
+                    "startOffset": 41613,
+                    "endColumn": 40,
+                    "endOffset": 41649
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 2855,
+                        "endColumn": 40,
+                        "endOffset": 2891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1652,
+                    "startColumn": 4,
+                    "startOffset": 41654,
+                    "endColumn": 41,
+                    "endOffset": 41691
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1309,
+                        "startColumn": 4,
+                        "startOffset": 33076,
+                        "endColumn": 41,
+                        "endOffset": 33113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1653,
+                    "startColumn": 4,
+                    "startOffset": 41696,
+                    "endColumn": 41,
+                    "endOffset": 41733
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1353,
+                        "startColumn": 4,
+                        "startOffset": 34176,
+                        "endColumn": 41,
+                        "endOffset": 34213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1654,
+                    "startColumn": 4,
+                    "startOffset": 41738,
+                    "endColumn": 41,
+                    "endOffset": 41775
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1397,
+                        "startColumn": 4,
+                        "startOffset": 35276,
+                        "endColumn": 41,
+                        "endOffset": 35313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1655,
+                    "startColumn": 4,
+                    "startOffset": 41780,
+                    "endColumn": 41,
+                    "endOffset": 41817
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1441,
+                        "startColumn": 4,
+                        "startOffset": 36402,
+                        "endColumn": 41,
+                        "endOffset": 36439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1656,
+                    "startColumn": 4,
+                    "startOffset": 41822,
+                    "endColumn": 41,
+                    "endOffset": 41859
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1485,
+                        "startColumn": 4,
+                        "startOffset": 37528,
+                        "endColumn": 41,
+                        "endOffset": 37565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1657,
+                    "startColumn": 4,
+                    "startOffset": 41864,
+                    "endColumn": 41,
+                    "endOffset": 41901
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1577,
+                        "startColumn": 4,
+                        "startOffset": 39934,
+                        "endColumn": 41,
+                        "endOffset": 39971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1658,
+                    "startColumn": 4,
+                    "startOffset": 41906,
+                    "endColumn": 41,
+                    "endOffset": 41943
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1621,
+                        "startColumn": 4,
+                        "startOffset": 41060,
+                        "endColumn": 41,
+                        "endOffset": 41097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1659,
+                    "startColumn": 4,
+                    "startOffset": 41948,
+                    "endColumn": 41,
+                    "endOffset": 41985
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1529,
+                        "startColumn": 4,
+                        "startOffset": 38654,
+                        "endColumn": 41,
+                        "endOffset": 38691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1660,
+                    "startColumn": 4,
+                    "startOffset": 41990,
+                    "endColumn": 40,
+                    "endOffset": 42026
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 3992,
+                        "endColumn": 40,
+                        "endOffset": 4028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1661,
+                    "startColumn": 4,
+                    "startOffset": 42031,
+                    "endColumn": 40,
+                    "endOffset": 42067
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 5102,
+                        "endColumn": 40,
+                        "endOffset": 5138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1662,
+                    "startColumn": 4,
+                    "startOffset": 42072,
+                    "endColumn": 40,
+                    "endOffset": 42108
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 6212,
+                        "endColumn": 40,
+                        "endOffset": 6248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1663,
+                    "startColumn": 4,
+                    "startOffset": 42113,
+                    "endColumn": 40,
+                    "endOffset": 42149
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 7322,
+                        "endColumn": 40,
+                        "endOffset": 7358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1664,
+                    "startColumn": 4,
+                    "startOffset": 42154,
+                    "endColumn": 40,
+                    "endOffset": 42190
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 8446,
+                        "endColumn": 40,
+                        "endOffset": 8482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1665,
+                    "startColumn": 4,
+                    "startOffset": 42195,
+                    "endColumn": 40,
+                    "endOffset": 42231
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 9544,
+                        "endColumn": 40,
+                        "endOffset": 9580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1666,
+                    "startColumn": 4,
+                    "startOffset": 42236,
+                    "endColumn": 54,
+                    "endOffset": 42286
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 54,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1667,
+                    "startColumn": 4,
+                    "startOffset": 42291,
+                    "endColumn": 56,
+                    "endOffset": 42343
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 56,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1668,
+                    "startColumn": 4,
+                    "startOffset": 42348,
+                    "endColumn": 47,
+                    "endOffset": 42391
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 47,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1669,
+                    "startColumn": 4,
+                    "startOffset": 42396,
+                    "endColumn": 47,
+                    "endOffset": 42439
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 47,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1670,
+                    "startColumn": 4,
+                    "startOffset": 42444,
+                    "endColumn": 47,
+                    "endOffset": 42487
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 47,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1671,
+                    "startColumn": 4,
+                    "startOffset": 42492,
+                    "endColumn": 49,
+                    "endOffset": 42537
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 49,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1672,
+                    "startColumn": 4,
+                    "startOffset": 42542,
+                    "endColumn": 50,
+                    "endOffset": 42588
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1700,
+                        "startColumn": 4,
+                        "startOffset": 43308,
+                        "endColumn": 50,
+                        "endOffset": 43354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1673,
+                    "startColumn": 4,
+                    "startOffset": 42593,
+                    "endColumn": 52,
+                    "endOffset": 42641
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1699,
+                        "startColumn": 4,
+                        "startOffset": 43255,
+                        "endColumn": 52,
+                        "endOffset": 43303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1674,
+                    "startColumn": 4,
+                    "startOffset": 42646,
+                    "endColumn": 50,
+                    "endOffset": 42692
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1702,
+                        "startColumn": 4,
+                        "startOffset": 43412,
+                        "endColumn": 50,
+                        "endOffset": 43458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1675,
+                    "startColumn": 4,
+                    "startOffset": 42697,
+                    "endColumn": 52,
+                    "endOffset": 42745
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1701,
+                        "startColumn": 4,
+                        "startOffset": 43359,
+                        "endColumn": 52,
+                        "endOffset": 43407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1676,
+                    "startColumn": 4,
+                    "startOffset": 42750,
+                    "endColumn": 50,
+                    "endOffset": 42796
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1704,
+                        "startColumn": 4,
+                        "startOffset": 43516,
+                        "endColumn": 50,
+                        "endOffset": 43562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1677,
+                    "startColumn": 4,
+                    "startOffset": 42801,
+                    "endColumn": 52,
+                    "endOffset": 42849
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1703,
+                        "startColumn": 4,
+                        "startOffset": 43463,
+                        "endColumn": 52,
+                        "endOffset": 43511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1678,
+                    "startColumn": 4,
+                    "startOffset": 42854,
+                    "endColumn": 50,
+                    "endOffset": 42900
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1706,
+                        "startColumn": 4,
+                        "startOffset": 43620,
+                        "endColumn": 50,
+                        "endOffset": 43666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1679,
+                    "startColumn": 4,
+                    "startOffset": 42905,
+                    "endColumn": 52,
+                    "endOffset": 42953
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1705,
+                        "startColumn": 4,
+                        "startOffset": 43567,
+                        "endColumn": 52,
+                        "endOffset": 43615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1680,
+                    "startColumn": 4,
+                    "startOffset": 42958,
+                    "endColumn": 50,
+                    "endOffset": 43004
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1708,
+                        "startColumn": 4,
+                        "startOffset": 43724,
+                        "endColumn": 50,
+                        "endOffset": 43770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1681,
+                    "startColumn": 4,
+                    "startOffset": 43009,
+                    "endColumn": 52,
+                    "endOffset": 43057
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1707,
+                        "startColumn": 4,
+                        "startOffset": 43671,
+                        "endColumn": 52,
+                        "endOffset": 43719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1682,
+                    "startColumn": 4,
+                    "startOffset": 43062,
+                    "endColumn": 50,
+                    "endOffset": 43108
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1710,
+                        "startColumn": 4,
+                        "startOffset": 43828,
+                        "endColumn": 50,
+                        "endOffset": 43874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1683,
+                    "startColumn": 4,
+                    "startOffset": 43113,
+                    "endColumn": 52,
+                    "endOffset": 43161
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1709,
+                        "startColumn": 4,
+                        "startOffset": 43775,
+                        "endColumn": 52,
+                        "endOffset": 43823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1684,
+                    "startColumn": 4,
+                    "startOffset": 43166,
+                    "endColumn": 50,
+                    "endOffset": 43212
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1712,
+                        "startColumn": 4,
+                        "startOffset": 43932,
+                        "endColumn": 50,
+                        "endOffset": 43978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1685,
+                    "startColumn": 4,
+                    "startOffset": 43217,
+                    "endColumn": 52,
+                    "endOffset": 43265
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1711,
+                        "startColumn": 4,
+                        "startOffset": 43879,
+                        "endColumn": 52,
+                        "endOffset": 43927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1686,
+                    "startColumn": 4,
+                    "startOffset": 43270,
+                    "endColumn": 50,
+                    "endOffset": 43316
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1714,
+                        "startColumn": 4,
+                        "startOffset": 44036,
+                        "endColumn": 50,
+                        "endOffset": 44082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1687,
+                    "startColumn": 4,
+                    "startOffset": 43321,
+                    "endColumn": 52,
+                    "endOffset": 43369
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1713,
+                        "startColumn": 4,
+                        "startOffset": 43983,
+                        "endColumn": 52,
+                        "endOffset": 44031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1688,
+                    "startColumn": 4,
+                    "startOffset": 43374,
+                    "endColumn": 57,
+                    "endOffset": 43427
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1694,
+                        "startColumn": 4,
+                        "startOffset": 43005,
+                        "endColumn": 57,
+                        "endOffset": 43058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1689,
+                    "startColumn": 4,
+                    "startOffset": 43432,
+                    "endColumn": 59,
+                    "endOffset": 43487
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1693,
+                        "startColumn": 4,
+                        "startOffset": 42945,
+                        "endColumn": 59,
+                        "endOffset": 43000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1690,
+                    "startColumn": 4,
+                    "startOffset": 43492,
+                    "endColumn": 57,
+                    "endOffset": 43545
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1696,
+                        "startColumn": 4,
+                        "startOffset": 43123,
+                        "endColumn": 57,
+                        "endOffset": 43176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1691,
+                    "startColumn": 4,
+                    "startOffset": 43550,
+                    "endColumn": 59,
+                    "endOffset": 43605
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/character_set.xml",
+                    "position": {
+                        "startLine": 1695,
+                        "startColumn": 4,
+                        "startOffset": 43063,
+                        "endColumn": 59,
+                        "endOffset": 43118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1692,
+                    "startColumn": 4,
+                    "startOffset": 43610,
+                    "endLine": 1694,
+                    "endColumn": 12,
+                    "endOffset": 43756
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1695,
+                    "startColumn": 4,
+                    "startOffset": 43761,
+                    "endLine": 1699,
+                    "endColumn": 12,
+                    "endOffset": 44032
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1700,
+                    "startColumn": 4,
+                    "startOffset": 44037,
+                    "endColumn": 70,
+                    "endOffset": 44103
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 70,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1701,
+                    "startColumn": 4,
+                    "startOffset": 44108,
+                    "endColumn": 82,
+                    "endOffset": 44186
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 82,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1702,
+                    "startColumn": 4,
+                    "startOffset": 44191,
+                    "endLine": 1707,
+                    "endColumn": 12,
+                    "endOffset": 44596
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1708,
+                    "startColumn": 4,
+                    "startOffset": 44601,
+                    "endLine": 1713,
+                    "endColumn": 12,
+                    "endOffset": 45018
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1714,
+                    "startColumn": 4,
+                    "startOffset": 45023,
+                    "endColumn": 119,
+                    "endOffset": 45138
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 119,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1715,
+                    "startColumn": 4,
+                    "startOffset": 45143,
+                    "endColumn": 62,
+                    "endOffset": 45201
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 62,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1716,
+                    "startColumn": 4,
+                    "startOffset": 45206,
+                    "endLine": 1718,
+                    "endColumn": 12,
+                    "endOffset": 45355
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2037,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1719,
+                    "startColumn": 4,
+                    "startOffset": 45360,
+                    "endColumn": 62,
+                    "endOffset": 45418
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2191,
+                        "endColumn": 62,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1720,
+                    "startColumn": 4,
+                    "startOffset": 45423,
+                    "endColumn": 131,
+                    "endOffset": 45550
+                },
+                "from": {
+                    "file": "/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 131,
+                        "endOffset": 2381
+                    }
+                }
+            }
+        ]
+    }
+]
