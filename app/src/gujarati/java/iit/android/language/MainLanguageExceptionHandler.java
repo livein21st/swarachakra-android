@@ -44,10 +44,10 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 	private InputConnection mInputConnection;
 	private MainKeyboardActionListener mKeyAction;
 	private SoftKeyboard sk;
-	private static final String RA = "\u0930";
-	private static final String HALANT = "\u094D";
-	private static final String EYELASHRA = "\u0930\u094d\u200d";
-	private static final String NUKTA = "\u093C";
+	private static final String RA = "\u0AB0";
+	private static final String HALANT = "\u0ACD";
+	private static final String EYELASHRA = "\u0AB0\u0ACD\u200d";
+	private static final String NUKTA = "\u0ABC";
 
 
 	private static final int RAFARCODE = 53;
@@ -290,7 +290,7 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 
 		int[] temp = {26,33};
 
-		String[] eyelashVal = {"\u0930\u094d\u200d\u092F","\u0930\u094d\u200d\u0939"};
+		String[] eyelashVal = {"\u0AB0\u0ACD\u200d\u0AAF","\u0AB0\u0ACD\u200d\u0AB9"};
 
 		//ArrayList<Integer> nuktaKeys = new ArrayList<Integer>();
 		SimpleArrayMap<Integer, String> eyelashraKeyValues = new SimpleArrayMap<Integer, String>();
@@ -386,11 +386,11 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 									if (conjuncts.containsKey(test.charAt(i))) {
 										Log.v("System", test.charAt(i) + " in conjuncts");
 										//deleting ksha with rafar code
-										if(String.valueOf(test.charAt(i)).equals("ष")){
+										if(String.valueOf(test.charAt(i)).equals("ષ")){
 											if(test.length()>4 && i>3) {
 
 												Log.d("track","i="+i+",test="+test+", length="+test.length());
-												if (test.substring(i - 4, i).equals("र्क्")) {
+												if (test.substring(i - 4, i).equals("ર્ક્")) {
 													if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 4, i))) {
 														i -= 4;
 													}
@@ -399,11 +399,11 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 											}
 										}
 										//deleting gnya with rafar
-										if(String.valueOf(test.charAt(i)).equals("ञ")){
+										if(String.valueOf(test.charAt(i)).equals("ઞ")){
 											if(test.length()>4 && i>3) {
 
 												//TO DO: crashes here with the error: java.lang.StringIndexOutOfBoundsException: length=5; regionStart=-1; regionLength=4
-												if (test.substring(i - 4, i).equals("र्ज्")) {
+												if (test.substring(i - 4, i).equals("ર્જ્")) {
 													if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 4, i))) {
 														i -= 4;
 													}
@@ -413,10 +413,10 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 											}
 										}
 										//deleting shra with rafar
-										if(String.valueOf(test.charAt(i)).equals("र")){
+										if(String.valueOf(test.charAt(i)).equals("ર")){
 											if(test.length()>4 && i>3) {
 
-												if (test.substring(i - 4, i).equals("र्श्")) {
+												if (test.substring(i - 4, i).equals("ર્શ્")) {
 													if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 4, i))) {
 														i -= 4;
 													}
@@ -426,10 +426,10 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 											}
 										}
 										//deleting thra with rafar
-										if(String.valueOf(test.charAt(i)).equals("र")){
+										if(String.valueOf(test.charAt(i)).equals("ર")){
 											if(test.length()>4 && i>3) {
 
-												if (test.substring(i - 4, i).equals("र्त्")) {
+												if (test.substring(i - 4, i).equals("ર્ત્")) {
 													if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 4, i))) {
 														i -= 4;
 													}
@@ -551,8 +551,8 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 	}
 
 	private void handleNukta(HashMap<Integer, KeyAttr> sKeys) {
-		int[] temp = {1, 2, 3, 8, 13, 14, 20, 22, 26, 27, 28};
-		String[] nuktaVal = {"\u0958", "\u0959", "\u095a", "\u095b", "\u095c", "\u095d", "\u0929", "\u095e", "\u095f", "\u0931", "\u0934"};
+		int[] temp = {8};
+		String[] nuktaVal = {"\u0AF9"};
 		//ArrayList<Integer> nuktaKeys = new ArrayList<Integer>();
 		SimpleArrayMap<Integer, String> nuktaKeyValues = new SimpleArrayMap<Integer, String>();
 		for (int i = 0; i < temp.length; i++) {
@@ -589,7 +589,7 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 		CharSequence charAfter = mInputConnection.getTextAfterCursor(2, 0);
 		Log.v("System", String.valueOf(charAfter) + "repositionCursour");
 		if (charAfter.length() == 2) {
-			if (charAfter.toString().equals("्र")) {
+			if (charAfter.toString().equals("્ર")) {
 				int selectionStart = mInputConnection.getExtractedText(new ExtractedTextRequest(), 0).selectionStart;
 				mInputConnection.setSelection(selectionStart + 2, selectionStart + 2);
 			}
@@ -597,13 +597,13 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 		CharSequence charBefore = mInputConnection.getTextBeforeCursor(2, 0);
 		Log.v("System", String.valueOf(charBefore) + "repositionCursour Char Before");
 		if (charBefore.length() == 2) {
-			if (charBefore.toString().equals("र्")) {
+			if (charBefore.toString().equals("ર્")) {
 				int selectionStart = mInputConnection.getExtractedText(new ExtractedTextRequest(), 0).selectionStart;
 				mInputConnection.setSelection(selectionStart + 1, selectionStart + 1);
 			}
 		}
 		if (charBefore.length() > 0 && charAfter.length() > 0) {
-			if (Character.toString(charBefore.charAt(charBefore.length() - 1)).equals("र") && Character.toString(charAfter.charAt(0)).equals("्")) {
+			if (Character.toString(charBefore.charAt(charBefore.length() - 1)).equals("ર") && Character.toString(charAfter.charAt(0)).equals("્")) {
 				int selectionStart = mInputConnection.getExtractedText(new ExtractedTextRequest(), 0).selectionStart;
 				selectionStart++;
 				if (charAfter.length() > 1) {

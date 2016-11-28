@@ -30,489 +30,489 @@ public final class R {
         public static final int fade_anim=0x7f040012;
     }
     public static final class array {
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_10_array=0x7f0b0000;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_11_array=0x7f0b0001;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_12_array=0x7f0b0002;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_13_array=0x7f0b0003;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_14_array=0x7f0b0004;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_15_array=0x7f0b0005;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_16_array=0x7f0b0006;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_17_array=0x7f0b0007;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_18_array=0x7f0b0008;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_19_array=0x7f0b0009;
         public static final int conjunct_1_array=0x7f0b000a;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_20_array=0x7f0b000b;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_21_array=0x7f0b000c;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_22_array=0x7f0b000d;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_23_array=0x7f0b000e;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_24_array=0x7f0b000f;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_25_array=0x7f0b0010;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_26_array=0x7f0b0011;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_27_array=0x7f0b0012;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_28_array=0x7f0b0013;
         public static final int conjunct_29_array=0x7f0b0014;
         public static final int conjunct_2_array=0x7f0b0015;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_30_array=0x7f0b0016;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_31_array=0x7f0b0017;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_32_array=0x7f0b0018;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_33_array=0x7f0b0019;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_34_array=0x7f0b001a;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_35_array=0x7f0b001b;
         public static final int conjunct_36_array=0x7f0b001c;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_37_array=0x7f0b001d;
         public static final int conjunct_3_array=0x7f0b001e;
-        /**  <item>ऱ्</item>
-        <item>ल्</item>
-        <item>ळ्</item>
-        <item>ऴ्</item>
-        <item>व्</item>
-        <item>श्</item>
-        <item>ष्</item>
-        <item>स्</item>
-        <item>ह्</item>
-        <item>क्ष्</item>
-        <item>श्र्</item>
-        <item>ज्ञ्</item>
-        <item>त्र्</item>
+        /**  <item>ऱ્</item>
+        <item>લ્</item>
+        <item>ળ્</item>
+        <item>ऴ્</item>
+        <item>વ્</item>
+        <item>શ્</item>
+        <item>ષ્</item>
+        <item>સ્</item>
+        <item>હ્</item>
+        <item>ક્ષ્</item>
+        <item>શ્ર્</item>
+        <item>જ્ઞ્</item>
+        <item>ત્ર્</item>
          */
         public static final int conjunct_4_array=0x7f0b001f;
-        /**  <item>ऱ्</item>
-        <item>ल्</item>
-        <item>ळ्</item>
-        <item>ऴ्</item>
-        <item>व्</item>
-        <item>श्</item>
-        <item>ष्</item>
-        <item>स्</item>
-        <item>ह्</item>
-        <item>क्ष्</item>
-        <item>श्र्</item>
-        <item>ज्ञ्</item>
-        <item>त्र्</item>
+        /**  <item>ऱ્</item>
+        <item>લ્</item>
+        <item>ળ્</item>
+        <item>ऴ્</item>
+        <item>વ્</item>
+        <item>શ્</item>
+        <item>ષ્</item>
+        <item>સ્</item>
+        <item>હ્</item>
+        <item>ક્ષ્</item>
+        <item>શ્ર્</item>
+        <item>જ્ઞ્</item>
+        <item>ત્ર્</item>
          */
         public static final int conjunct_5_array=0x7f0b0020;
-        /**  <item>ऱ्</item>
-        <item>ल्</item>
-        <item>ळ्</item>
-        <item>ऴ्</item>
-        <item>व्</item>
-        <item>श्</item>
-        <item>ष्</item>
-        <item>स्</item>
-        <item>ह्</item>
-        <item>क्ष्</item>
-        <item>श्र्</item>
-        <item>ज्ञ्</item>
-        <item>त्र्</item>
+        /**  <item>ऱ્</item>
+        <item>લ્</item>
+        <item>ળ્</item>
+        <item>ऴ્</item>
+        <item>વ્</item>
+        <item>શ્</item>
+        <item>ષ્</item>
+        <item>સ્</item>
+        <item>હ્</item>
+        <item>ક્ષ્</item>
+        <item>શ્ર્</item>
+        <item>જ્ઞ્</item>
+        <item>ત્ર્</item>
          */
         public static final int conjunct_6_array=0x7f0b0021;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_7_array=0x7f0b0022;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_8_array=0x7f0b0023;
-        /**  <item>ऱ्</item>
-         <item>ल्</item>
-         <item>ळ्</item>
-         <item>ऴ्</item>
-         <item>व्</item>
-         <item>श्</item>
-         <item>ष्</item>
-         <item>स्</item>
-         <item>ह्</item>
-         <item>क्ष्</item>
-         <item>श्र्</item>
-         <item>ज्ञ्</item>
-         <item>त्र्</item>
+        /**  <item>ऱ્</item>
+         <item>લ્</item>
+         <item>ળ્</item>
+         <item>ऴ્</item>
+         <item>વ્</item>
+         <item>શ્</item>
+         <item>ષ્</item>
+         <item>સ્</item>
+         <item>હ્</item>
+         <item>ક્ષ્</item>
+         <item>શ્ર્</item>
+         <item>જ્ઞ્</item>
+         <item>ત્ર્</item>
          */
         public static final int conjunct_9_array=0x7f0b0024;
         public static final int in_chakra_vowel_modifiers=0x7f0b0025;

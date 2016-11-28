@@ -632,7 +632,7 @@ public class MainLanguage extends Language {
 
 		KeyAttr myKey50 = new KeyAttr();
 		myKey50.code = 51;
-		myKey50.label = "\u093C" ;
+		myKey50.label = "\u0ABC" ;
 		myKey50.showChakra = false ;
 		myKey50.showCustomChakra = false ;
 		myKey50.customChakraLayout = new String[] {} ;
@@ -684,7 +684,7 @@ public class MainLanguage extends Language {
 
 		KeyAttr myKey54 = new KeyAttr();
 		myKey54.code = 55;
-		myKey54.label = "\u0970" ;
+		myKey54.label = "\u0AF0" ;
 		myKey54.showChakra = false ;
 		myKey54.showCustomChakra = false ;
 		myKey54.customChakraLayout = new String[] {} ;
