@@ -480,7 +480,7 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 		if(i>0 && !mExceptionLangHandler.languageConsonants.contains(test.charAt(i))){
 			//mLog.v("system","insideLangConsonants");
 			if((i)>0 && mExceptionLangHandler.chakraVowelModifiers.contains(test.charAt(i)) ){
-				if (String.valueOf(test.charAt(i)).equals("्")) {
+				if (String.valueOf(test.charAt(i)).equals("્")) {
 					//mLog.v("system","insideHalant check");
 					//Character c = test.charAt(i-1);
 					String str = String.valueOf(test.charAt(i));
@@ -494,7 +494,7 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 							}
 						}else if(j>=0 && mExceptionLangHandler.chakraVowelModifiers.contains(test.charAt(j)) ){
 							//vowelModCount = vowelModCount+1;
-							if(String.valueOf(test.charAt(j)).equals("्")){
+							if(String.valueOf(test.charAt(j)).equals("્")){
 								str =   String.valueOf(test.charAt(j)) +str;
 							}else{
 								break;
@@ -578,8 +578,10 @@ public class MainKeyboardActionListener implements OnKeyboardActionListener,
 				String nextLabel = "";
 				if (inExceptionMode && sKeys.containsKey(code)) {
 					nextLabel = sKeys.get(code).label;
-					//mLog.d("exhandle", "nextLabel = " + nextLabel);
-				} else {
+//					Log mLog;
+//					mLog.d("exhandle", "nextLabel = " + nextLabel);
+				}
+				else {
 					nextLabel = preText + mKeys.get(code).label;
 				}
 				key.label = nextLabel;

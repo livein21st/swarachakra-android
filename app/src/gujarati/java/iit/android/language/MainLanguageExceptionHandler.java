@@ -46,14 +46,13 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 	private SoftKeyboard sk;
 	private static final String RA = "\u0AB0";
 	private static final String HALANT = "\u0ACD";
-	private static final String EYELASHRA = "\u0AB0\u0ACD\u200d";
+//	private static final String EYELASHRA = "\u0AB0\u0ACD\u200d";
 	private static final String NUKTA = "\u0ABC";
 
 
-	private static final int RAFARCODE = 53;
-	private static final int TRAKARCODE = 52;
-	private static final int EYELASHRACODE = 51;
-	private static final int NUKTACODE = 121;
+	private static final int NUKTACODE = 51;
+	private static final int RAFARCODE = 52;
+	private static final int TRAKARCODE = 121;
 
 	public static String PACKAGE_NAME;
 	Context mContext;
@@ -88,9 +87,9 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 	public HashMap<Integer, KeyAttr> handleException(int keyCode) {
 		HashMap<Integer, KeyAttr> sKeys = new HashMap<Integer, KeyAttr>();
 		switch (keyCode) {
-			case EYELASHRACODE:
-				handleEyelashRa(sKeys);
-				break;
+//			case EYELASHRACODE:
+//				handleEyelashRa(sKeys);
+//				break;
 			case TRAKARCODE:
 				handleTrakar(sKeys);
 				break;
@@ -284,42 +283,43 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 			sKeys.put(key.code, key);
 		}
 	}
-
-	private void handleEyelashRa(HashMap<Integer, KeyAttr> sKeys) {
-		//Log.d("debug","eyelash");
-
-		int[] temp = {26,33};
-
-		String[] eyelashVal = {"\u0AB0\u0ACD\u200d\u0AAF","\u0AB0\u0ACD\u200d\u0AB9"};
-
-		//ArrayList<Integer> nuktaKeys = new ArrayList<Integer>();
-		SimpleArrayMap<Integer, String> eyelashraKeyValues = new SimpleArrayMap<Integer, String>();
-
-
-		for (int i = 0; i < temp.length; i++) {
-			//nuktaKeys.add(temp[i]);
-			eyelashraKeyValues.put(temp[i], eyelashVal[i]);
-
-		}
-
-		for(KeyAttr key : keyArray){
-			if (eyelashraKeyValues.containsKey(key.code)) {
-				String newLabel = eyelashraKeyValues.get(key.code);
-				//Log.d("debug","Keep this one button "+key.code);
-
-				key.label = newLabel;
-				key.showChakra = true;
-			} else {
-				//Log.d("debug","Hide this button "+key.code);
-				//key.showChakra = false;
-				//key.label = "";
-				//key.code = 0;
-				//key.icon = "";
-				//key.showIcon = false;
-			}
-			sKeys.put(key.code, key);
-		}
-	}
+// EyeLash is not requred for Gujarati
+//	private void handleEyelashRa(HashMap<Integer, KeyAttr> sKeys) {
+//		//Log.d("debug","eyelash");
+//
+//		int[] temp = {26,33};
+//
+//		String[] eyelashVal = {"\u0AB0\u0ACD\u200d\u0AAF","\u0AB0\u0ACD\u200d\u0AB9"};
+//
+//		//ArrayList<Integer> nuktaKeys = new ArrayList<Integer>();
+//		SimpleArrayMap<Integer, String> eyelashraKeyValues = new SimpleArrayMap<Integer, String>();
+//
+//
+//		for (int i = 0; i < temp.length; i++) {
+//			//nuktaKeys.add(temp[i]);
+//			eyelashraKeyValues.put(temp[i], eyelashVal[i]);
+//
+//		}
+//
+//		for(KeyAttr key : keyArray){
+//			if (eyelashraKeyValues.containsKey(key.code)) {
+//				String newLabel = eyelashraKeyValues.get(key.code);
+//				//Log.d("debug","Keep this one button "+key.code);
+//
+//				key.label = newLabel;
+//				key.showChakra = true;
+//			}
+//			else {
+//				//Log.d("debug","Hide this button "+key.code);
+//				//key.showChakra = false;
+//				//key.label = "";
+//				//key.code = 0;
+//				//key.icon = "";
+//				//key.showIcon = false;
+//			}
+//			sKeys.put(key.code, key);
+//		}
+//	}
 
 	private void commitText(String text) {
 		mInputConnection.setComposingText(text, 1);
@@ -438,16 +438,16 @@ public class MainLanguageExceptionHandler implements ExceptionHandler {
 
 											}
 										}
-										if(test.length()>3 && i>2) {
-
-											if (test.substring(i - 3, i).equals(EYELASHRA)) {
-												if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 3, i))) {
-													i -= 3;
-												}
-												break;
-											}
-
-										}
+//										if(test.length()>3 && i>2) {
+//
+//											if (test.substring(i - 3, i).equals(EYELASHRA)) {
+//												if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 3, i))) {
+//													i -= 3;
+//												}
+//												break;
+//											}
+//
+//										}
 										if (test.length() > 2 && i > 1) {
 											if (conjuncts.get(test.charAt(i)).contains(test.substring(i - 2, i))) {
 												i -= 2;
