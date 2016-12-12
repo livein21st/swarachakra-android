@@ -1,4 +1,4 @@
-#Tue Dec 06 06:12:36 IST 2016
+#Mon Dec 12 14:27:20 IST 2016
 base.0=/Users/neer/GitHub/Swarachakra-Gujarati-trial1/app/build/intermediates/transforms/dex/gujarati/debug/folders/1000/10/instant-run-bootstrap_03184abac2f83e24aefa63ba8a712bda075838d2
 renamed.1=classes.dex
 renamed.0=classes2.dex

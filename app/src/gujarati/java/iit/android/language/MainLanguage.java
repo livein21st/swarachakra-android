@@ -630,7 +630,7 @@ public class MainLanguage extends Language {
 
 		KeyAttr myKey50 = new KeyAttr();
 		myKey50.code = 51;
-		myKey50.label = "\u0ABC";
+		myKey50.label = "";
 		myKey50.showChakra = false ;
 		myKey50.showCustomChakra = false ;
 		myKey50.customChakraLayout = new String[] {} ;
@@ -638,12 +638,38 @@ public class MainLanguage extends Language {
 		myKey50.icon = "";
 		myKey50.changeLayout = false ;
 		myKey50.layout = "";
-		myKey50.isException = false;
 		myKey.set(50, myKey50);
+
+//		KeyAttr myKey120 = new KeyAttr();
+//		myKey120 .code = 121;
+//		myKey120 .label = "\u0AA4"+"\u0ACD"+"\u0AB0" ; //Trakar
+//		myKey120 .showChakra = false ;
+//		myKey120.showCustomChakra = false ;
+//		myKey120 .customChakraLayout = new String[] {} ;
+//		myKey120.showIcon = false ;
+//		myKey120 .icon = "";
+//		myKey120 .changeLayout = false ;
+//		myKey120 .layout = "";
+//		myKey120 .isException = true;
+//		myKey.set(120, myKey120 );
+
+//		KeyAttr myKey51 = new KeyAttr();
+//		myKey51.code = 52;
+//		myKey51.label = "\u0AB0"+"\u0ACD"+"ગ"; //Rafar
+//		myKey51.showChakra = false ;
+//		myKey51.showCustomChakra = false ;
+//		myKey51.customChakraLayout = new String[] {} ;
+//		myKey51.showIcon = false ;
+//		myKey51.icon = "";
+//		myKey51.changeLayout = false ;
+//		myKey51.layout = "";
+//		myKey51.isException = true;
+//		myKey.set(51, myKey51);
+
 
 		KeyAttr myKey51 = new KeyAttr();
 		myKey51.code = 52;
-		myKey51.label = "\u0AB0"+"\u0ACD"+"ગ"; //Rafar
+		myKey51.label = "\u0AA4"+"\u0ACD"+"\u0AB0"; //Trakar
 		myKey51.showChakra = false ;
 		myKey51.showCustomChakra = false ;
 		myKey51.customChakraLayout = new String[] {} ;
@@ -656,7 +682,7 @@ public class MainLanguage extends Language {
 
 		KeyAttr myKey52 = new KeyAttr();
 		myKey52.code = 53;
-		myKey52.label = "";
+		myKey52.label = "\u0AB0"+"\u0ACD"+"ગ";
 		myKey52.showChakra = false ;
 		myKey52.showCustomChakra = false ;
 		myKey52.customChakraLayout = new String[] {} ;
@@ -664,6 +690,7 @@ public class MainLanguage extends Language {
 		myKey52.icon = "";
 		myKey52.changeLayout = false ;
 		myKey52.layout = "";
+		myKey52.isException =true;
 		myKey.set(52, myKey52);
 
 
@@ -1476,15 +1503,14 @@ public class MainLanguage extends Language {
 
 		KeyAttr myKey120 = new KeyAttr();
 		myKey120 .code = 121;
-		myKey120 .label = "\u0AA4"+"\u0ACD"+"\u0AB0" ; //Trakar
+		myKey120 .label = "" ;
 		myKey120 .showChakra = false ;
 		myKey120.showCustomChakra = false ;
 		myKey120 .customChakraLayout = new String[] {} ;
 		myKey120.showIcon = false ;
 		myKey120 .icon = "";
 		myKey120 .changeLayout = false ;
-		myKey120 .layout = "";
-		myKey120 .isException = true;
+		myKey120 .layout = "\u0ABC";
 		myKey.set(120, myKey120 );
 
 		KeyAttr myKey121 = new KeyAttr();
